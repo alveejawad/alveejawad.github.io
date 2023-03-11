@@ -6,4 +6,4 @@ Here are some steps on how to host a website online-
 *The next step is to download the GitHub desktop app from their website. The respository you have created needs to be cloned so click on "Set up in Desktop" button and then save your project. Add a readme on setting up the repository. You can import you resume that is written in markdown language by clicking on the add file.  
 *Go to settings and then click on pages and click on the save button. 
 Here is a link to my [resume](https://alveejawad.github.io/my-resume.html).  
- ![gif](alveejawad.github.io/resume.gif) 
+ ![](https://github.com/alveejawad.github.io/resume.gif)
