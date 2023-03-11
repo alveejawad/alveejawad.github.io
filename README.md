@@ -13,4 +13,5 @@ processor?"
 -The name for the repository would be username.github.io. Make sure that the username is the same as the username you used for the account.  
 Authors and acknowledgements-  
 Craig Kwame, Quinn, Xu Zhou, Andrew Etter
-![](https://github.com/alveejawad/alveejawad.github.io/blob/main/resume.gif)
+![](resume.gif)
+
