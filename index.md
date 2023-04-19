@@ -3,7 +3,6 @@ layout: "post"
 title:  "My Resume"
 date:   2023-03-08 01:37:25 -0600
 author: "ALVEE JAWAD"
-permalink: "/my-resume"
 
 ---
 # __Alvee Jawad__
