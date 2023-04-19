@@ -1,9 +1,5 @@
 ---
-layout: "post"
-title:  "My Resume"
-date:   2023-03-08 01:37:25 -0600
-author: "ALVEE JAWAD"
-
+title: "Alvee Jawad"
 ---
 # __Alvee Jawad__
 
