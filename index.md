@@ -1,5 +1,5 @@
 ---
-title: "My resume"
+title: "My Resume"
 ---
 # __Alvee Jawad__
 
