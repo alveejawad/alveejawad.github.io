@@ -1,4 +1,3 @@
-**Alvee Jawad**
 
 Address- 58 Newcastle Rd, MB; Website- alveejawad.github.io; Phone: (204) 869-6440;
 
